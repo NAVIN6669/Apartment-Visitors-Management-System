@@ -10,3 +10,5 @@ In AVMS we use PHP and MySQL database. This is the project which keeps records o
 
 •	Reports: In this section admin can generate visitor’s reports between two dates.
 ->Admin can also update his profile, change password and recover password.
+
+You can download and see the entire project files from Apartment-Visitors-Management-System folder!
